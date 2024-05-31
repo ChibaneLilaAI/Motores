@@ -1,6 +1,7 @@
 # Anomaly Detection in Motor images
 
 ## Project Objective:
+The objective of the 
 
 ## Solutuoin Overview
 ![image](https://github.com/ChibaneLilaAI/Motores/blob/main/image1.jpg)
