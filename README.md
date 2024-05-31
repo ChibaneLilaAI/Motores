@@ -22,13 +22,19 @@ First, we manually segmented the images of the motors to extract the ground trut
 
 &nbsp;
 &nbsp;
-
+&nbsp;
+&nbsp;
 ![image](https://github.com/ChibaneLilaAI/Motores/blob/main/image1.jpg)
+
 &nbsp;
 &nbsp;
 ![image](https://github.com/ChibaneLilaAI/Motores/blob/main/image2.jpg)
+
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+
 ![image](https://github.com/ChibaneLilaAI/Motores/blob/main/image3.jpg)
 
 #### Dependencies
