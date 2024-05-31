@@ -20,6 +20,9 @@ etc.
 
 First, we manually segmented the images of the motors to extract the ground truth, indicating the anomaly's location. Next, we isolated the yellow top-bottom and the gray right pin, merging them into one image. Similarly, we grouped the gray button and the bottom buttons into another image. After resizing the motor image, we divided it into two parts: top and bottom. Subsequently, we trained four distinct models on each extracted image and combined their results to obtain the final prediction.
 
+&nbsp;
+&nbsp;
+
 ![image](https://github.com/ChibaneLilaAI/Motores/blob/main/image1.jpg)
 &nbsp;
 &nbsp;
