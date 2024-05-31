@@ -1,7 +1,19 @@
 # Anomaly Detection in Motor images
 
 ## Project Objective:
-The objective is to identify the images that contain anomalies.
+The objective is to identify the images that contain anomalies that could be:
+✅  Missing part
+
+✅  Wrong part
+
+✅  Wrong part color
+
+✅  Damaged part
+
+✅  Poor cable fixing
+
+✅  Lost object in the assembly
+etc.
 
 ## Solution Overview
 
