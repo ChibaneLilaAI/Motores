@@ -1,7 +1,7 @@
 # Anomaly Detection in Motor images
 
 ## Project Objective:
-The objective of the 
+The objective is to identify the images that contain anomalies.
 
 ## Solutuoin Overview
 ![image](https://github.com/ChibaneLilaAI/Motores/blob/main/image1.jpg)
@@ -16,5 +16,5 @@ The objective of the
 - scikit-learn
 - numpy
 - pandas
-- 
+  
 ## Final Best Result
