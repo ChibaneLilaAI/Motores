@@ -4,9 +4,9 @@
 
 ## Solutuoin Overview
 ![image](https://github.com/ChibaneLilaAI/Motores/blob/main/image1.jpg)
-<br>
+<br />
 ![image](https://github.com/ChibaneLilaAI/Motores/blob/main/image2.jpg)
-<br>
+<br />
 ![image](https://github.com/ChibaneLilaAI/Motores/blob/main/image3.jpg)
 
 #### Dependencies
