@@ -2,6 +2,7 @@
 
 ## Project Objective:
 The objective is to identify the images that contain anomalies that could be:
+
 ✅  Missing part
 
 ✅  Wrong part
