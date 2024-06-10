@@ -42,4 +42,3 @@ First, we manually segmented the images of the motors to extract the ground trut
 - numpy
 - pandas
   
-## Final Best Result
